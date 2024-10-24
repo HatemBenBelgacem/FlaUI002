@@ -19,3 +19,4 @@ D:\dev_Projekte\FlaUI002\obj\Debug\net8.0-windows\refint\FlaUI002.dll
 D:\dev_Projekte\FlaUI002\obj\Debug\net8.0-windows\FlaUI002.pdb
 D:\dev_Projekte\FlaUI002\obj\Debug\net8.0-windows\FlaUI002.genruntimeconfig.cache
 D:\dev_Projekte\FlaUI002\obj\Debug\net8.0-windows\ref\FlaUI002.dll
+D:\dev_Projekte\FlaUI002\obj\Debug\net8.0-windows\FlaUI002.sourcelink.json
